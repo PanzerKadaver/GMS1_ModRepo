@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectAxisInverser", "CorrectAxisInverser\CorrectAxisInverser.csproj", "{09DAF912-EE85-4695-896E-D9DFE592E718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LosslessBlacksmith", "LosslessBlacksmith\LosslessBlacksmith.csproj", "{111B0DEB-7A73-4960-8285-FB3B2870558C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaLadowarka", "MegaLadowarka\MegaLadowarka.csproj", "{FA3D0790-BC23-40AB-BAB3-FBC36A7B08AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09DAF912-EE85-4695-896E-D9DFE592E718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DAF912-EE85-4695-896E-D9DFE592E718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DAF912-EE85-4695-896E-D9DFE592E718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DAF912-EE85-4695-896E-D9DFE592E718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111B0DEB-7A73-4960-8285-FB3B2870558C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111B0DEB-7A73-4960-8285-FB3B2870558C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111B0DEB-7A73-4960-8285-FB3B2870558C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111B0DEB-7A73-4960-8285-FB3B2870558C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA3D0790-BC23-40AB-BAB3-FBC36A7B08AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3D0790-BC23-40AB-BAB3-FBC36A7B08AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3D0790-BC23-40AB-BAB3-FBC36A7B08AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3D0790-BC23-40AB-BAB3-FBC36A7B08AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D851A7E-D1ED-44AE-8B4C-0E7920BE1D3D}
+	EndGlobalSection
+EndGlobal
