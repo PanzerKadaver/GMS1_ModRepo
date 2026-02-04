@@ -11,12 +11,12 @@ Also, if you encounter a bug and if you think it's related to one of my mod, do 
 
 1. Download [BepInEx 5.4.23.4](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.4) and follow the installation procedure 
 2. Download my mod pack from the [Releases](https://github.com/PanzerKadaver/GMS1_ModRepo/releases) page of this repo
-3. Extract the archive and move the mods dll you wish to install to `BepInEx/plugins` folder
+3. Extract the archive and move the mods dll you wish to install to `<GameFolder>/BepInEx/plugins` folder
 
 ## How to report a bug with a mod
 
 1. In your game folder, locate the file named `doorstop_config.ini` and inside of it, change the value of the parameter `redirect_output_log` from `false` to `true`.
-2. Re-launch the game and reporduce the bug you've encountered
+2. Re-launch the game and reproduce the bug you've encountered
 3. Open an issue on this repo and provide as many information as you can : steps to reproduce, screenshots, details, etc.
 4. Attach to the issue the log file `output_log.txt`
 
