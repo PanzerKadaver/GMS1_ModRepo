@@ -22,13 +22,13 @@ Also, if you encounter a bug and if you think it's related to one of my mod, do 
 
 ## List of mods
 
-### CorrectAxisInverser
+### Correct Axis Inverser
 
 **Description :** A pretty straightforward mod. It make sure that even with X and/or Y axis inverted toggle, that inversion only apply to Controller (instead of Controller AND Mouse), allowing you to freely switch between KBM and Controller as you see fit.
 
 **Safe to add/remove from your actual save :** Yes
 
-### LosslessBlacksmith
+### Lossless Blacksmith
 
 **Description :** Modify the Blacksmith to remove gold losses when the crucible is fully upgraded. The new losses per level is the following :
 
